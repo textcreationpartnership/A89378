@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Most true relation of the great and bloody battell fought upon Monday last neer the coast of England, by three of the Earl of Warwicks ships; namely, the James, George, and Gray-hound, against Col. Goring with 7. ships, who was comming to assist His Majesty against the Parl. declaring also the wonderfull victory which they hath obtained against the said Col. Goring, sinking three of his ships, and making all the rest to fly. Also how the states of Holland hath taken 30. sail of ships that were comming to England, laden with great store of arms and ammunition, which were sent from the Prince of Orange and the Dutch cavaleers to His Majesty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89378</idno>
+            <idno type="STC">Wing M2930</idno>
+            <idno type="STC">Thomason E129_16</idno>
+            <idno type="STC">ESTC R2072</idno>
+            <idno type="EEBO-CITATION">99866269</idno>
+            <idno type="PROQUEST">99866269</idno>
+            <idno type="VID">156280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156280)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Most true relation of the great and bloody battell fought upon Monday last neer the coast of England, by three of the Earl of Warwicks ships; namely, the James, George, and Gray-hound, against Col. Goring with 7. ships, who was comming to assist His Majesty against the Parl. declaring also the wonderfull victory which they hath obtained against the said Col. Goring, sinking three of his ships, and making all the rest to fly. Also how the states of Holland hath taken 30. sail of ships that were comming to England, laden with great store of arms and ammunition, which were sent from the Prince of Orange and the Dutch cavaleers to His Majesty.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Decemb. 8. Printed for L. Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Parliaments answer to the states propositions, p. [6].</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goring, George Goring, --  Baron, 1608-1657 --  Early works to 1800.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156280:1" rendition="simple:additions"/>
+            <p>A moſt true RELATION Of the great and bloody BATTELL Fought upon Monday laſt neer the Coaſt of <hi>England,</hi> by three of the Earl of <hi>War<g ref="char:EOLhyphen"/>wicks</hi> ſhips; Namely, the <hi>James, George,</hi> and <hi>Gray-hound,</hi>
+            </p>
+            <p>Againſt Col. Goring with 7. ſhips, who was comming to aſſiſt his Majeſty againſt the Parl. Declaring alſo the wonderfull Victory which they hath obtained againſt the ſaid Col. <hi>Goring,</hi> ſinking three of his ſhips, and making all the reſt to fly.</p>
+            <p>Alſo how the States of <hi>Holland</hi> hath taken 30. Sail of ſhips that were comming to <hi>England, laden with great ſtore of Arms and Ammunition, which were ſent from the Prince of Orange and the Dutch Cavaleers to his Majeſty.</hi>
+            </p>
+            <p>
+               <hi>Decemb.</hi> 8. Printed for <hi>L. Wright,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156280:2"/>
+            <pb facs="tcp:156280:2"/>
+            <head>THE STATES OF HOLLAND And Zealand, Their Propoſitions to the King and Parliament, for an accommodation of Peace and Vnion betwixt the two Kingdoms of England and Scotland, and them ſelves, to oppoſe all Nations that ſhall come againſt them.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE States Generall for a long time have bin very ſcrupulous in declaring themſelves, but ſince they began to diſcern what the Deſigns againſt the Parla<g ref="char:EOLhyphen"/>ment of England were (and if
+<pb facs="tcp:156280:3"/> brought to paſſe would in concluſion prove their Raine.) Therefore the States of Holland and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealand for the better preventing of theſe deſigns of forreign Nations, they unanimouſly conſented to have a generall meeting, at Amſterdam, where they concluded, and were more forward to ad<g ref="char:EOLhyphen"/>vance this Aſſociation then before they were back<g ref="char:EOLhyphen"/>ward, being now ſenſible of the Prince of Orenge his forwardneſſe in giving way that Arms, Am<g ref="char:EOLhyphen"/>munition, men, money, and other warlike proviſi<g ref="char:EOLhyphen"/>ons ſhould be brought over <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ther, tending to the ruine of this preſent Parliament.</p>
+            <p>And furthermore for the preventing of theſe deſigns and Conſpiracies, they are concluded for to declare their Reſolutions to the Parliament of ENGLAND, and to preſent theſe following Propoſitions to that Grave and worthy Aſſem<g ref="char:EOLhyphen"/>bly. <hi>Viz.</hi>
+            </p>
+            <div type="proposition">
+               <head>1.</head>
+               <p>THat whereas all forreign Nations ha<g ref="char:EOLhyphen"/>ving intelligence of the Diſtractions and the great Diſturbances that are now in this Kingdom, and the differences that are betwixt his Majeſty and his great and ho<g ref="char:EOLhyphen"/>nourable Aſſembly the High Court of <hi>Pur<g ref="char:EOLhyphen"/>liament,</hi> have indeavoured and combined to<g ref="char:EOLhyphen"/>gether, to raiſe a great power and ſtrength,
+<pb facs="tcp:156280:3"/> together with an invincible Sayle of ſhips, with a wicked Reſolution to come againſt theſe two Kingdoms of <hi>England and Scot<g ref="char:EOLhyphen"/>land,</hi> to caſt down and utterly deſtroy the true Proteſtant Religion: Therfore for the preventing of this damnable and Hell-bred Conſpiracie, the States Generall, and the States of <hi>Holland</hi> and <hi>Zealand</hi> doe unani<g ref="char:EOLhyphen"/>mouſly deſire, that there may be a comply<g ref="char:EOLhyphen"/>ance with the Parliament, and that there may be an Aſſociation and firme union be<g ref="char:EOLhyphen"/>tween them, and the Kingdoms of <hi>England</hi> and <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div type="proposition">
+               <head>2.</head>
+               <p>That as they underſtand, that in divers Places of Chriſtendom there are great pre<g ref="char:EOLhyphen"/>parations making for warre, for the de<g ref="char:EOLhyphen"/>ſtroying and ſubverting of all the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Religion,</hi> ſo they moſt earneſtly deſire, that the three States may joyn together to defend the ſame.</p>
+               <p>The States further declared unto the Houſe, that they had made ſtop of all the proviſion provided there to be ſent to the
+<pb facs="tcp:156280:4"/> King, and are reſolved that no aid ſhall be ſent from thence.</p>
+               <p>The States are now in great controver<g ref="char:EOLhyphen"/>ſie with the Prince of <hi>Orange</hi> for his for<g ref="char:EOLhyphen"/>wardneſſe to ſend ſupplyes to the King, and for his combining with Papiſts in forrein parts.</p>
+               <p>It was alſo further ſignified to the ho<g ref="char:EOLhyphen"/>nourable houſes of <hi>Parliament,</hi> by Letters from Mr, <hi>Strickland,</hi> that the Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi> had provided 30. ſayl of ſhips to tran<g ref="char:EOLhyphen"/>ſport Arms and Ammunition to his Majeſty the King of <hi>England,</hi> but the States having information of them, immediatly hindered his proceedings, and made ſtopping of the ſaid ſhipping.</p>
+            </div>
+         </div>
+         <div type="response">
+            <head>The Parliaments Anſwer to the States Propo<g ref="char:EOLhyphen"/>ſitions.</head>
+            <p>UPon conſideration of this buſineſſe, the Commons have orderd that a Let<g ref="char:EOLhyphen"/>ter of Thanks be returned to the States for
+<pb facs="tcp:156280:4"/> their fidelity to the <hi>Parliament,</hi> and to in<g ref="char:EOLhyphen"/>forme them that the Parliament do with much cheerfulneſſe embrace their Propoſi<g ref="char:EOLhyphen"/>tion for an aſſociation, and firm Union be<g ref="char:EOLhyphen"/>twixt theſe two Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> and them, and that they will haz<g ref="char:EOLhyphen"/>za<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d their lives and fortunes in defence of the true Proteſtant Religion.</p>
+            <p>It is declared, that Collonell <hi>Goring</hi> with 1500. Germans and French hath taken ſhip<g ref="char:EOLhyphen"/>ping, and is comming for <hi>England</hi> to aid and aſſiſt his Majeſty againſt the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But the Parliaments Navie which is now at Sea, having intelligence of their com<g ref="char:EOLhyphen"/>ming, immediately hoyſted Sayle and made towards them, the James, the George, and the Gray-hound drew nearer and nearer to them, and let fly two or three pieces at Colonell Goring and his Cavaliers, which made them tremble at the noyſe of the Ca<g ref="char:EOLhyphen"/>non, inſomuch that they thought to have betook themſelves to flight.</p>
+            <p>But Colonell Goring thinking himſelfe ſufficient enough to encounter with them,
+<pb facs="tcp:156280:5"/> charged a broad ſide againſt them, but the James and the George comming up with much fury, ſunk two or three of Colonell Gorings ſhips, and held the reſt play for the ſpace of 4. hours, till at laſt the gorged Cavaleers began to betake themſelves to flight.</p>
+            <p>There were ſlain of the Cavaleers in this battle about the Number of 500. as it is ſuppoſed, and of our ſide 20. with little or no hurt to the ſhips.</p>
+            <p>
+               <hi>The Lords and Commons aſſembled in Parl. do declare, that all ſouldiers that do commit any offence contrary to their Orders ſhall be brought to condigne puniſhment, and that they may be ſe<g ref="char:EOLhyphen"/>verely proceeded againſt according to Law.</hi>
+            </p>
+            <closer>
+               <signed>John Brown Cler. Parliamentorum</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
